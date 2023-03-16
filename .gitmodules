@@ -1,0 +1,3 @@
+[submodule "github/hardhat-fund-me-fcc"]
+	path = github/hardhat-fund-me-fcc
+	url = https://github.com/DmitryCeo/Hardhat-FundMe
